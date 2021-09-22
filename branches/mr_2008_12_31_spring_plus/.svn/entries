@@ -1,0 +1,86 @@
+10
+
+dir
+1030
+http://gwt-maven.googlecode.com/svn/branches/mr_2008_12_31_spring_plus
+http://gwt-maven.googlecode.com/svn
+
+
+
+2009-01-03T14:25:39.806230Z
+953
+marek.romanowski
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+a4611b4d-791b-0410-a941-edd6d174b497
+
+pom.xml
+file
+
+
+
+
+2016-03-07T21:18:37.874392Z
+08780a3dae7e8f549e7ec2e196708902
+2009-01-03T14:25:39.806230Z
+953
+marek.romanowski
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5228
+
+mavenrepo
+dir
+
+maven-googlewebtoolkit-support
+dir
+
+googlewebtoolkit-beanmapping
+dir
+
+maven-googlewebtoolkit-plugin
+dir
+
+maven-googlewebtoolkit2-plugin
+dir
+
+maven-googlewebtoolkit-sample
+dir
+
+maven-googlewebtoolkit2-sample
+dir
+
+maven-googlewebtoolkit2-archetype
+dir
+

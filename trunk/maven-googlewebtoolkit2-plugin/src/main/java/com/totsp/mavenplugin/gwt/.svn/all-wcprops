@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1030/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt
+END
+AbstractGWTMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1030/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/AbstractGWTMojo.java
+END
+WriteAllScripts.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/997/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/WriteAllScripts.java
+END
+DebugMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/970/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/DebugMojo.java
+END
+CompileMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/964/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/CompileMojo.java
+END
+ValidateMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1021/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/ValidateMojo.java
+END
+BeanGeneratorMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/731/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/BeanGeneratorMojo.java
+END
+MergeWebXmlMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/958/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/MergeWebXmlMojo.java
+END
+I18NMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/960/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/I18NMojo.java
+END
+GWTMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/976/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/GWTMojo.java
+END
+GWTTestMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/976/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/GWTTestMojo.java
+END
+SuperDevModeMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1030/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/SuperDevModeMojo.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/test/java/server
+END
+TestGrandParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/test/java/server/TestGrandParent.java
+END
+ABean.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/test/java/server/ABean.java
+END
+BBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/test/java/server/BBean.java
+END
+TestParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/test/java/server/TestParent.java
+END
+TestInheritance.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/test/java/server/TestInheritance.java
+END

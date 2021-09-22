@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/java/com/totsp/mavenplugin/gwt/support
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/java/com/totsp/mavenplugin/gwt/support/Main.java
+END
+MakeCatalinaBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/java/com/totsp/mavenplugin/gwt/support/MakeCatalinaBase.java
+END
+GwtShellWebProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/java/com/totsp/mavenplugin/gwt/support/GwtShellWebProcessor.java
+END
+ExitException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/java/com/totsp/mavenplugin/gwt/support/ExitException.java
+END
+GwtWebInfProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/java/com/totsp/mavenplugin/gwt/support/GwtWebInfProcessor.java
+END
+ServletDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/java/com/totsp/mavenplugin/gwt/support/ServletDescriptor.java
+END

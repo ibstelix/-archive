@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-support-1_5_5/src/java/com/totsp/mavenplugin/gwt/support/beans
+END
+GWTBeanGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-support-1_5_5/src/java/com/totsp/mavenplugin/gwt/support/beans/GWTBeanGenerator.java
+END
+TranslatorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-support-1_5_5/src/java/com/totsp/mavenplugin/gwt/support/beans/TranslatorGenerator.java
+END
+BeanGeneratorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-support-1_5_5/src/java/com/totsp/mavenplugin/gwt/support/beans/BeanGeneratorContext.java
+END
+Bean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-support-1_5_5/src/java/com/totsp/mavenplugin/gwt/support/beans/Bean.java
+END
+Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-support-1_5_5/src/java/com/totsp/mavenplugin/gwt/support/beans/Generator.java
+END
+BeanGeneratorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-support-1_5_5/src/java/com/totsp/mavenplugin/gwt/support/beans/BeanGeneratorBase.java
+END
+FormGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-support-1_5_5/src/java/com/totsp/mavenplugin/gwt/support/beans/FormGenerator.java
+END
+GlobalGeneratorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-support-1_5_5/src/java/com/totsp/mavenplugin/gwt/support/beans/GlobalGeneratorContext.java
+END

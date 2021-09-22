@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-sample/src/main/java/com/totsp/sample/client
+END
+MyProjectEntryPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-sample/src/main/java/com/totsp/sample/client/MyProjectEntryPoint.java
+END
+MyServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-sample/src/main/java/com/totsp/sample/client/MyServiceAsync.java
+END
+MyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-sample/src/main/java/com/totsp/sample/client/MyService.java
+END

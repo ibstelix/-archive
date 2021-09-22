@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/953/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans
+END
+GlobalGeneratorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/GlobalGeneratorContext.java
+END
+GWTBeanGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/943/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/GWTBeanGenerator.java
+END
+TranslatorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/TranslatorGenerator.java
+END
+BeanGeneratorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/BeanGeneratorContext.java
+END
+ServiceProxyGeneratorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/ServiceProxyGeneratorBase.java
+END
+Bean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/Bean.java
+END
+Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/Generator.java
+END
+BeanGeneratorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/953/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/BeanGeneratorBase.java
+END
+FormGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/FormGenerator.java
+END

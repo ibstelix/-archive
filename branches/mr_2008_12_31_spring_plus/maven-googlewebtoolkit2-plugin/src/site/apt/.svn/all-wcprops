@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/site/apt
+END
+testing.apt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/site/apt/testing.apt
+END
+examples.apt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/site/apt/examples.apt
+END
+setup.apt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/site/apt/setup.apt
+END
+archetype.apt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/site/apt/archetype.apt
+END
+tomcatlite.apt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/site/apt/tomcatlite.apt
+END
+index.apt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/site/apt/index.apt
+END

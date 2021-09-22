@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/mavenrepo/com.google.gwt/jars
+END
+gwt-user-1.4.60.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/mavenrepo/com.google.gwt/jars/gwt-user-1.4.60.jar
+END
+gwtcoverage-1.4.61.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/mavenrepo/com.google.gwt/jars/gwtcoverage-1.4.61.jar
+END
+gwt-user-1.4.61.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/mavenrepo/com.google.gwt/jars/gwt-user-1.4.61.jar
+END
+gwt-servlet-1.4.60.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/mavenrepo/com.google.gwt/jars/gwt-servlet-1.4.60.jar
+END
+gwt-servlet-1.4.61.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/mavenrepo/com.google.gwt/jars/gwt-servlet-1.4.61.jar
+END
+gwt-dev-windows-1.4.60.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/mavenrepo/com.google.gwt/jars/gwt-dev-windows-1.4.60.jar
+END
+gwt-dev-linux-1.4.60.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/mavenrepo/com.google.gwt/jars/gwt-dev-linux-1.4.60.jar
+END
+gwt-dev-mac-1.4.60.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/mavenrepo/com.google.gwt/jars/gwt-dev-mac-1.4.60.jar
+END

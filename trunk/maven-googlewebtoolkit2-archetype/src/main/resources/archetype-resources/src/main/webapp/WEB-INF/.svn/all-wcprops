@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/827/trunk/maven-googlewebtoolkit2-archetype/src/main/resources/archetype-resources/src/main/webapp/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/827/trunk/maven-googlewebtoolkit2-archetype/src/main/resources/archetype-resources/src/main/webapp/WEB-INF/web.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/741/tags/maven-googlewebtoolkit2-plugin_2.0-beta22/maven-googlewebtoolkit2-plugin/src/site/apt
+END
+testing.apt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/741/tags/maven-googlewebtoolkit2-plugin_2.0-beta22/maven-googlewebtoolkit2-plugin/src/site/apt/testing.apt
+END
+examples.apt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/741/tags/maven-googlewebtoolkit2-plugin_2.0-beta22/maven-googlewebtoolkit2-plugin/src/site/apt/examples.apt
+END
+setup.apt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/741/tags/maven-googlewebtoolkit2-plugin_2.0-beta22/maven-googlewebtoolkit2-plugin/src/site/apt/setup.apt
+END
+index.apt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/741/tags/maven-googlewebtoolkit2-plugin_2.0-beta22/maven-googlewebtoolkit2-plugin/src/site/apt/index.apt
+END

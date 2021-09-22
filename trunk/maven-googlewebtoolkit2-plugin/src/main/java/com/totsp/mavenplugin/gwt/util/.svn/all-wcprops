@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1029/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/util
+END
+ArtifactNameUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/965/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/util/ArtifactNameUtil.java
+END
+BuildClasspathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1029/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/util/BuildClasspathUtil.java
+END
+FileIOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/731/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/util/FileIOUtils.java
+END
+DependencyScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/731/trunk/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/util/DependencyScope.java
+END

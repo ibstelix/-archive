@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/741/tags/maven-googlewebtoolkit2-plugin_2.0-beta22/maven-googlewebtoolkit2-plugin/simplesample
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/741/tags/maven-googlewebtoolkit2-plugin_2.0-beta22/maven-googlewebtoolkit2-plugin/simplesample/pom.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/741/tags/maven-googlewebtoolkit2-plugin_2.0-beta22/maven-googlewebtoolkit2-plugin/simplesample/README.txt
+END
+pom-with-gwthome.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/741/tags/maven-googlewebtoolkit2-plugin_2.0-beta22/maven-googlewebtoolkit2-plugin/simplesample/pom-with-gwthome.xml
+END

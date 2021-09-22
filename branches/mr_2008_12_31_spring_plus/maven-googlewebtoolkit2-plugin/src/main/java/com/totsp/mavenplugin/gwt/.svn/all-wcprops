@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/945/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt
+END
+AbstractGWTMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/945/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/AbstractGWTMojo.java
+END
+DebugMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/945/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/DebugMojo.java
+END
+IFileExecution.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/943/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/IFileExecution.java
+END
+CompileMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/945/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/CompileMojo.java
+END
+ProcessGWTResourcesMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/945/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/ProcessGWTResourcesMojo.java
+END
+BeanGeneratorMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/939/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/BeanGeneratorMojo.java
+END
+ModificationDateCollectingDirectoryWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/943/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/ModificationDateCollectingDirectoryWalker.java
+END
+MergeWebXmlMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/945/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/MergeWebXmlMojo.java
+END
+I18NMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/944/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/I18NMojo.java
+END
+GWTMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/945/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/GWTMojo.java
+END
+GWTTestMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/945/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/GWTTestMojo.java
+END

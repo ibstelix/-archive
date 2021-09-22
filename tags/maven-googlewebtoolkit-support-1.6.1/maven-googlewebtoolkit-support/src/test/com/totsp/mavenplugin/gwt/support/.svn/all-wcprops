@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/874/tags/maven-googlewebtoolkit-support-1.6.1/maven-googlewebtoolkit-support/src/test/com/totsp/mavenplugin/gwt/support
+END
+GenerationBaseCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/874/tags/maven-googlewebtoolkit-support-1.6.1/maven-googlewebtoolkit-support/src/test/com/totsp/mavenplugin/gwt/support/GenerationBaseCase.java
+END
+MakeCatalinaBaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/874/tags/maven-googlewebtoolkit-support-1.6.1/maven-googlewebtoolkit-support/src/test/com/totsp/mavenplugin/gwt/support/MakeCatalinaBaseTest.java
+END
+GwtWebInfProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/874/tags/maven-googlewebtoolkit-support-1.6.1/maven-googlewebtoolkit-support/src/test/com/totsp/mavenplugin/gwt/support/GwtWebInfProcessorTest.java
+END

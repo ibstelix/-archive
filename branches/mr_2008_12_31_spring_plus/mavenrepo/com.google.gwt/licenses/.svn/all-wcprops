@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/mavenrepo/com.google.gwt/licenses
+END
+gwt-user.license
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/mavenrepo/com.google.gwt/licenses/gwt-user.license
+END
+gwt-servlet.license
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/mavenrepo/com.google.gwt/licenses/gwt-servlet.license
+END

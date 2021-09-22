@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/scripting
+END
+ScriptWriterWindows.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/scripting/ScriptWriterWindows.java
+END
+ProcessWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/scripting/ProcessWatcher.java
+END
+TestResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/scripting/TestResult.java
+END
+ScriptWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/scripting/ScriptWriter.java
+END
+ScriptUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/scripting/ScriptUtil.java
+END
+ScriptWriterUnix.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/scripting/ScriptWriterUnix.java
+END
+ScriptWriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/scripting/ScriptWriterFactory.java
+END

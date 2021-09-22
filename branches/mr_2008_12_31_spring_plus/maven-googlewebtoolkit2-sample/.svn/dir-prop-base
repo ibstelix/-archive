@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 56
+.classpath
+
+.project
+
+src
+
+.gwt-cache
+
+tomcat
+
+.gwt-tmp
+
+END

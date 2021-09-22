@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/class-use
+END
+GWTTestMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/class-use/GWTTestMojo.html
+END
+GWTMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/class-use/GWTMojo.html
+END
+AbstractGWTMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/class-use/AbstractGWTMojo.html
+END
+DebugMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/class-use/DebugMojo.html
+END
+WriteAllScripts.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/class-use/WriteAllScripts.html
+END
+CompileMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/class-use/CompileMojo.html
+END
+ValidateMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/class-use/ValidateMojo.html
+END
+BeanGeneratorMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/class-use/BeanGeneratorMojo.html
+END
+MergeWebXmlMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/class-use/MergeWebXmlMojo.html
+END
+I18NMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/class-use/I18NMojo.html
+END

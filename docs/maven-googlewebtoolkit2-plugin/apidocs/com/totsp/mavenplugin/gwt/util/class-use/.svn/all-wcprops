@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/util/class-use
+END
+FileIOUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/util/class-use/FileIOUtils.html
+END
+DependencyScope.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/util/class-use/DependencyScope.html
+END
+ArtifactNameUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/util/class-use/ArtifactNameUtil.html
+END
+BuildClasspathUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/apidocs/com/totsp/mavenplugin/gwt/util/class-use/BuildClasspathUtil.html
+END

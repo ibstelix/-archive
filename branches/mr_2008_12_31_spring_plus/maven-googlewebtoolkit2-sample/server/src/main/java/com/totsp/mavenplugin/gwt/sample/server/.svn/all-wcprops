@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-sample/server/src/main/java/com/totsp/mavenplugin/gwt/sample/server
+END
+SampleRemoteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-sample/server/src/main/java/com/totsp/mavenplugin/gwt/sample/server/SampleRemoteServiceImpl.java
+END
+HttpServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-sample/server/src/main/java/com/totsp/mavenplugin/gwt/sample/server/HttpServlet.java
+END
+RandomCompliment.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit2-sample/server/src/main/java/com/totsp/mavenplugin/gwt/sample/server/RandomCompliment.java
+END

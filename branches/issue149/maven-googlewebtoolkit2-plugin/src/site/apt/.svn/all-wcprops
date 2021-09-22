@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/site/apt
+END
+testing.apt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/site/apt/testing.apt
+END
+examples.apt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/site/apt/examples.apt
+END
+setup.apt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/site/apt/setup.apt
+END
+archetype.apt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/site/apt/archetype.apt
+END
+tomcatlite.apt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/site/apt/tomcatlite.apt
+END
+index.apt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/src/site/apt/index.apt
+END

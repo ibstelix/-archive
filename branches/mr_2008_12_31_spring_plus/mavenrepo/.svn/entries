@@ -1,0 +1,52 @@
+10
+
+dir
+1030
+http://gwt-maven.googlecode.com/svn/branches/mr_2008_12_31_spring_plus/mavenrepo
+http://gwt-maven.googlecode.com/svn
+
+
+
+2009-01-03T14:25:39.806230Z
+953
+marek.romanowski
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+a4611b4d-791b-0410-a941-edd6d174b497
+
+com.google.gwt
+dir
+
+com.googlecode.gwtx
+dir
+
+com.manning.gwtip
+dir
+
+org.gwtwidgets
+dir
+
+com
+dir
+
+com.bouwkamp.gwt
+dir
+
+com.totsp.gwt
+dir
+
+com.googlecode.gwt-dnd
+dir
+

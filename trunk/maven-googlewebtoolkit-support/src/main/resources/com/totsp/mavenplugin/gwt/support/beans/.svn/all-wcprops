@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/main/resources/com/totsp/mavenplugin/gwt/support/beans
+END
+Service.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/main/resources/com/totsp/mavenplugin/gwt/support/beans/Service.xsl
+END
+ServiceServlet.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/main/resources/com/totsp/mavenplugin/gwt/support/beans/ServiceServlet.xsl
+END
+ServiceExample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/main/resources/com/totsp/mavenplugin/gwt/support/beans/ServiceExample.xml
+END
+DTO.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/main/resources/com/totsp/mavenplugin/gwt/support/beans/DTO.xsl
+END
+DTOExample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/main/resources/com/totsp/mavenplugin/gwt/support/beans/DTOExample.xml
+END
+ServiceAsync.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/main/resources/com/totsp/mavenplugin/gwt/support/beans/ServiceAsync.xsl
+END
+Exception.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/main/resources/com/totsp/mavenplugin/gwt/support/beans/Exception.xsl
+END

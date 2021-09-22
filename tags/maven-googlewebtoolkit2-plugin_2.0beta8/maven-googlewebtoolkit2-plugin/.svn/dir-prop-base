@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 47
+target
+.classpath
+.project
+.settings
+nbproject
+
+END

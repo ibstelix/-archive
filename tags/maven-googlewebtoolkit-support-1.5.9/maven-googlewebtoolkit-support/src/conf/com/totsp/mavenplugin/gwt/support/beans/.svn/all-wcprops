@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/conf/com/totsp/mavenplugin/gwt/support/beans
+END
+DTOExample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/conf/com/totsp/mavenplugin/gwt/support/beans/DTOExample.xml
+END
+ServiceAsync.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/conf/com/totsp/mavenplugin/gwt/support/beans/ServiceAsync.xsl
+END
+Exception.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/conf/com/totsp/mavenplugin/gwt/support/beans/Exception.xsl
+END
+Service.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/conf/com/totsp/mavenplugin/gwt/support/beans/Service.xsl
+END
+ServiceServlet.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/conf/com/totsp/mavenplugin/gwt/support/beans/ServiceServlet.xsl
+END
+ServiceExample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/conf/com/totsp/mavenplugin/gwt/support/beans/ServiceExample.xml
+END
+DTO.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/conf/com/totsp/mavenplugin/gwt/support/beans/DTO.xsl
+END

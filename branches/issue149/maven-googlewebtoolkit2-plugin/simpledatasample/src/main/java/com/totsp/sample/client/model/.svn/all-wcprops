@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/simpledatasample/src/main/java/com/totsp/sample/client/model
+END
+MyProjectData.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/simpledatasample/src/main/java/com/totsp/sample/client/model/MyProjectData.java
+END
+MyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/simpledatasample/src/main/java/com/totsp/sample/client/model/MyService.java
+END
+DataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/simpledatasample/src/main/java/com/totsp/sample/client/model/DataException.java
+END
+DataChangeNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/simpledatasample/src/main/java/com/totsp/sample/client/model/DataChangeNotifier.java
+END
+Entry.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/simpledatasample/src/main/java/com/totsp/sample/client/model/Entry.java
+END
+MyServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/simpledatasample/src/main/java/com/totsp/sample/client/model/MyServiceAsync.java
+END
+DataChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/934/branches/issue149/maven-googlewebtoolkit2-plugin/simpledatasample/src/main/java/com/totsp/sample/client/model/DataChangeListener.java
+END

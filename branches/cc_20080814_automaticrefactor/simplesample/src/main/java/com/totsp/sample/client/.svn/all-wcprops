@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/688/branches/cc_20080814_automaticrefactor/simplesample/src/main/java/com/totsp/sample/client
+END
+AppMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/681/branches/cc_20080814_automaticrefactor/simplesample/src/main/java/com/totsp/sample/client/AppMessages.properties
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/688/branches/cc_20080814_automaticrefactor/simplesample/src/main/java/com/totsp/sample/client/Application.java
+END
+AppConstants.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/681/branches/cc_20080814_automaticrefactor/simplesample/src/main/java/com/totsp/sample/client/AppConstants.properties
+END
+AppMessages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/681/branches/cc_20080814_automaticrefactor/simplesample/src/main/java/com/totsp/sample/client/AppMessages_fr.properties
+END
+SampleRemoteServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/641/branches/cc_20080814_automaticrefactor/simplesample/src/main/java/com/totsp/sample/client/SampleRemoteServiceAsync.java
+END
+SampleRemoteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/641/branches/cc_20080814_automaticrefactor/simplesample/src/main/java/com/totsp/sample/client/SampleRemoteService.java
+END
+AppConstants_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/681/branches/cc_20080814_automaticrefactor/simplesample/src/main/java/com/totsp/sample/client/AppConstants_fr.properties
+END

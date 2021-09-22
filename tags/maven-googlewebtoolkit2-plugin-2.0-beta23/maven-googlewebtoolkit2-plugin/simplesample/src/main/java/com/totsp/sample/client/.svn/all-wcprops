@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/845/tags/maven-googlewebtoolkit2-plugin-2.0-beta23/maven-googlewebtoolkit2-plugin/simplesample/src/main/java/com/totsp/sample/client
+END
+AppConstants_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/845/tags/maven-googlewebtoolkit2-plugin-2.0-beta23/maven-googlewebtoolkit2-plugin/simplesample/src/main/java/com/totsp/sample/client/AppConstants_fr.properties
+END
+AppMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/845/tags/maven-googlewebtoolkit2-plugin-2.0-beta23/maven-googlewebtoolkit2-plugin/simplesample/src/main/java/com/totsp/sample/client/AppMessages.properties
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/845/tags/maven-googlewebtoolkit2-plugin-2.0-beta23/maven-googlewebtoolkit2-plugin/simplesample/src/main/java/com/totsp/sample/client/Application.java
+END
+AppConstants.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/845/tags/maven-googlewebtoolkit2-plugin-2.0-beta23/maven-googlewebtoolkit2-plugin/simplesample/src/main/java/com/totsp/sample/client/AppConstants.properties
+END
+AppMessages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/845/tags/maven-googlewebtoolkit2-plugin-2.0-beta23/maven-googlewebtoolkit2-plugin/simplesample/src/main/java/com/totsp/sample/client/AppMessages_fr.properties
+END
+SampleRemoteServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/845/tags/maven-googlewebtoolkit2-plugin-2.0-beta23/maven-googlewebtoolkit2-plugin/simplesample/src/main/java/com/totsp/sample/client/SampleRemoteServiceAsync.java
+END
+SampleRemoteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/845/tags/maven-googlewebtoolkit2-plugin-2.0-beta23/maven-googlewebtoolkit2-plugin/simplesample/src/main/java/com/totsp/sample/client/SampleRemoteService.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/298/tags/maven-googlewebtoolkit2-plugin-1_5_2/src/main/java/com/totsp/mavenplugin/gwt
+END
+MergeWebXmlMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/298/tags/maven-googlewebtoolkit2-plugin-1_5_2/src/main/java/com/totsp/mavenplugin/gwt/MergeWebXmlMojo.java
+END
+GWTMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/298/tags/maven-googlewebtoolkit2-plugin-1_5_2/src/main/java/com/totsp/mavenplugin/gwt/GWTMojo.java
+END
+AbstractGWTMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/298/tags/maven-googlewebtoolkit2-plugin-1_5_2/src/main/java/com/totsp/mavenplugin/gwt/AbstractGWTMojo.java
+END
+DebugMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/298/tags/maven-googlewebtoolkit2-plugin-1_5_2/src/main/java/com/totsp/mavenplugin/gwt/DebugMojo.java
+END
+CompileMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/298/tags/maven-googlewebtoolkit2-plugin-1_5_2/src/main/java/com/totsp/mavenplugin/gwt/CompileMojo.java
+END
+BeanGeneratorMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/298/tags/maven-googlewebtoolkit2-plugin-1_5_2/src/main/java/com/totsp/mavenplugin/gwt/BeanGeneratorMojo.java
+END

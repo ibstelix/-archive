@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/298/tags/maven-googlewebtoolkit-support-1_5_2/src/java/com/totsp/mavenplugin/gwt/support/beans
+END
+BeanGeneratorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/298/tags/maven-googlewebtoolkit-support-1_5_2/src/java/com/totsp/mavenplugin/gwt/support/beans/BeanGeneratorBase.java
+END
+GWTBeanGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/298/tags/maven-googlewebtoolkit-support-1_5_2/src/java/com/totsp/mavenplugin/gwt/support/beans/GWTBeanGenerator.java
+END
+Bean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/298/tags/maven-googlewebtoolkit-support-1_5_2/src/java/com/totsp/mavenplugin/gwt/support/beans/Bean.java
+END

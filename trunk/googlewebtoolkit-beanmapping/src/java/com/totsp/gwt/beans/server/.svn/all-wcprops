@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/389/trunk/googlewebtoolkit-beanmapping/src/java/com/totsp/gwt/beans/server
+END
+BeanMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/389/trunk/googlewebtoolkit-beanmapping/src/java/com/totsp/gwt/beans/server/BeanMapping.java
+END
+MappingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/113/trunk/googlewebtoolkit-beanmapping/src/java/com/totsp/gwt/beans/server/MappingException.java
+END
+GwtOmit.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/113/trunk/googlewebtoolkit-beanmapping/src/java/com/totsp/gwt/beans/server/GwtOmit.java
+END
+HttpService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/349/trunk/googlewebtoolkit-beanmapping/src/java/com/totsp/gwt/beans/server/HttpService.java
+END

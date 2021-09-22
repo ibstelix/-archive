@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1020/docs/maven-googlewebtoolkit2-plugin/xref/com/totsp/mavenplugin/gwt
+END
+DebugMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/xref/com/totsp/mavenplugin/gwt/DebugMojo.html
+END
+WriteAllScripts.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/xref/com/totsp/mavenplugin/gwt/WriteAllScripts.html
+END
+CompileMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/xref/com/totsp/mavenplugin/gwt/CompileMojo.html
+END
+ValidateMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/xref/com/totsp/mavenplugin/gwt/ValidateMojo.html
+END
+BeanGeneratorMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/752/docs/maven-googlewebtoolkit2-plugin/xref/com/totsp/mavenplugin/gwt/BeanGeneratorMojo.html
+END
+MergeWebXmlMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/xref/com/totsp/mavenplugin/gwt/MergeWebXmlMojo.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/xref/com/totsp/mavenplugin/gwt/package-frame.html
+END
+I18NMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/xref/com/totsp/mavenplugin/gwt/I18NMojo.html
+END
+GWTTestMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/xref/com/totsp/mavenplugin/gwt/GWTTestMojo.html
+END
+GWTMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/xref/com/totsp/mavenplugin/gwt/GWTMojo.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/xref/com/totsp/mavenplugin/gwt/package-summary.html
+END
+AbstractGWTMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/xref/com/totsp/mavenplugin/gwt/AbstractGWTMojo.html
+END

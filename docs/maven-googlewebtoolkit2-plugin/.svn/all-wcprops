@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1020/docs/maven-googlewebtoolkit2-plugin
+END
+dependencies.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/dependencies.html
+END
+plugin-info.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/plugin-info.html
+END
+debug-mojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/debug-mojo.html
+END
+issue-tracking.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/issue-tracking.html
+END
+compile-mojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/compile-mojo.html
+END
+validate-mojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1018/docs/maven-googlewebtoolkit2-plugin/validate-mojo.html
+END
+writeAllScripts-mojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1018/docs/maven-googlewebtoolkit2-plugin/writeAllScripts-mojo.html
+END
+project-info.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/project-info.html
+END
+team-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/team-list.html
+END
+setup.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/setup.html
+END
+project-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/project-summary.html
+END
+project-reports.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/project-reports.html
+END
+gwt-mojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/gwt-mojo.html
+END
+generateClientBeans-mojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/generateClientBeans-mojo.html
+END
+usage.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1018/docs/maven-googlewebtoolkit2-plugin/usage.html
+END
+tomcatlite.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/tomcatlite.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/index.html
+END
+plugin-management.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/plugin-management.html
+END
+testing.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/testing.html
+END
+source-repository.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/source-repository.html
+END
+mail-lists.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/mail-lists.html
+END
+examples.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/examples.html
+END
+mergewebxml-mojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/mergewebxml-mojo.html
+END
+test-mojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/test-mojo.html
+END
+i18n-mojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/i18n-mojo.html
+END
+plugins.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/plugins.html
+END
+license.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/license.html
+END
+integration.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/integration.html
+END
+archetype.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1015/docs/maven-googlewebtoolkit2-plugin/archetype.html
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/597/tags/2.0-beta14_04172008/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt
+END
+GWTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/597/tags/2.0-beta14_04172008/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/GWTTest.java
+END
+BeanGeneratorMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/597/tags/2.0-beta14_04172008/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/BeanGeneratorMojo.java
+END
+GWTSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/597/tags/2.0-beta14_04172008/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/GWTSetup.java
+END
+MergeWebXmlMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/597/tags/2.0-beta14_04172008/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/MergeWebXmlMojo.java
+END
+ScriptWriterUnix.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/597/tags/2.0-beta14_04172008/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/ScriptWriterUnix.java
+END
+GWTMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/597/tags/2.0-beta14_04172008/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/GWTMojo.java
+END
+AbstractGWTMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/597/tags/2.0-beta14_04172008/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/AbstractGWTMojo.java
+END
+DebugMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/597/tags/2.0-beta14_04172008/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/DebugMojo.java
+END
+ScriptWriterWindows.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/597/tags/2.0-beta14_04172008/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/ScriptWriterWindows.java
+END
+ProcessWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/597/tags/2.0-beta14_04172008/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/ProcessWatcher.java
+END
+CompileMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/597/tags/2.0-beta14_04172008/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/CompileMojo.java
+END
+GWTExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/597/tags/2.0-beta14_04172008/maven-googlewebtoolkit2-plugin/src/main/java/com/totsp/mavenplugin/gwt/GWTExtractor.java
+END

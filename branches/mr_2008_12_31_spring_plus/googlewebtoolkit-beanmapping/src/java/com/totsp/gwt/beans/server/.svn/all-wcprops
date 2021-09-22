@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/googlewebtoolkit-beanmapping/src/java/com/totsp/gwt/beans/server
+END
+MappingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/googlewebtoolkit-beanmapping/src/java/com/totsp/gwt/beans/server/MappingException.java
+END
+GwtOmit.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/googlewebtoolkit-beanmapping/src/java/com/totsp/gwt/beans/server/GwtOmit.java
+END
+HttpService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/googlewebtoolkit-beanmapping/src/java/com/totsp/gwt/beans/server/HttpService.java
+END
+BeanMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/googlewebtoolkit-beanmapping/src/java/com/totsp/gwt/beans/server/BeanMapping.java
+END

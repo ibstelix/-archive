@@ -1,0 +1,86 @@
+10
+
+dir
+1030
+http://gwt-maven.googlecode.com/svn/trunk
+http://gwt-maven.googlecode.com/svn
+
+
+
+2012-07-01T17:08:58.682492Z
+1030
+kebernet
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+a4611b4d-791b-0410-a941-edd6d174b497
+
+maven-googlewebtoolkit2-plugin
+dir
+
+maven-googlewebtoolkit-sample
+dir
+
+maven-googlewebtoolkit2-sample
+dir
+
+maven-googlewebtoolkit2-archetype
+dir
+
+pom.xml
+file
+
+
+
+
+2016-03-07T21:18:01.663273Z
+4c4ed8db77b9edf0b9970e7950bf8759
+2007-04-03T18:14:57.851150Z
+295
+kebernet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1817
+
+mavenrepo
+dir
+
+maven-googlewebtoolkit-support
+dir
+
+googlewebtoolkit-beanmapping
+dir
+
+maven-googlewebtoolkit-plugin
+dir
+

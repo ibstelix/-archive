@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-plugin-1_5_5/xdocs
+END
+configure_noserver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-plugin-1_5_5/xdocs/configure_noserver.xml
+END
+goals.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-plugin-1_5_5/xdocs/goals.xml
+END
+configure_tomcatlite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-plugin-1_5_5/xdocs/configure_tomcatlite.xml
+END
+install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-plugin-1_5_5/xdocs/install.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-plugin-1_5_5/xdocs/index.xml
+END
+properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-plugin-1_5_5/xdocs/properties.xml
+END
+navigation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-plugin-1_5_5/xdocs/navigation.xml
+END
+sample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/402/tags/maven-googlewebtoolkit-plugin-1_5_5/xdocs/sample.xml
+END

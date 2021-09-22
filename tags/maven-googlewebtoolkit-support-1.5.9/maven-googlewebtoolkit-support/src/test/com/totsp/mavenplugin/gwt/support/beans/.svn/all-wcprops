@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/test/com/totsp/mavenplugin/gwt/support/beans
+END
+GWTBeanGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/test/com/totsp/mavenplugin/gwt/support/beans/GWTBeanGeneratorTest.java
+END
+ServiceProxyGeneratorBaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/631/tags/maven-googlewebtoolkit-support-1.5.9/maven-googlewebtoolkit-support/src/test/com/totsp/mavenplugin/gwt/support/beans/ServiceProxyGeneratorBaseTest.java
+END

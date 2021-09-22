@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/test/java/service
+END
+MyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/test/java/service/MyService.java
+END
+MyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/test/java/service/MyServiceImpl.java
+END
+SomeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/test/java/service/SomeBean.java
+END
+MyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/632/trunk/maven-googlewebtoolkit-support/src/test/java/service/MyException.java
+END

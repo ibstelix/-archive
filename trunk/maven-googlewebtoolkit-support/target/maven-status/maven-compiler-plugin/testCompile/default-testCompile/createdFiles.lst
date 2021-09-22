@@ -1,0 +1,12 @@
+server/TestGrandParent.class
+service/SomeBean.class
+server/TestInheritance.class
+service/MyException.class
+server/ABean.class
+server/TestParent$bar.class
+server/BBean.class
+server/TestParent.class
+server/TestParent$foo.class
+service/MyServiceImpl.class
+service/MyService.class
+server/TestParent$foo$baz.class

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/test/resources
+END
+testWeb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/test/resources/testWeb.xml
+END
+Test.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/test/resources/Test.gwt.xml
+END
+testWeb2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/test/resources/testWeb2.xml
+END
+Test2.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/test/resources/Test2.gwt.xml
+END

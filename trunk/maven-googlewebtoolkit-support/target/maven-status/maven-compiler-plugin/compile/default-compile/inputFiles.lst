@@ -1,0 +1,15 @@
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/TranslatorGenerator.java
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/BeanGeneratorContext.java
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/ServletDescriptor.java
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/BeanGeneratorBase.java
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/ServiceProxyGeneratorBase.java
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/Main.java
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/MakeCatalinaBase.java
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/ExitException.java
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/GlobalGeneratorContext.java
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/Bean.java
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/GwtWebInfProcessor.java
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/GwtShellWebProcessor.java
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/FormGenerator.java
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/Generator.java
+/home/ibstelix/projects/servers/RESTCOMM/gwt/gwt-maven/trunk/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/beans/GWTBeanGenerator.java

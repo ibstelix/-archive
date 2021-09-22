@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/721/branches/cc_20080814_automaticrefactor/src/main/java/com/totsp/mavenplugin/gwt/util
+END
+BuildClasspathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/721/branches/cc_20080814_automaticrefactor/src/main/java/com/totsp/mavenplugin/gwt/util/BuildClasspathUtil.java
+END
+FileIOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/697/branches/cc_20080814_automaticrefactor/src/main/java/com/totsp/mavenplugin/gwt/util/FileIOUtils.java
+END
+DependencyScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/721/branches/cc_20080814_automaticrefactor/src/main/java/com/totsp/mavenplugin/gwt/util/DependencyScope.java
+END
+ArtifactNameUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/697/branches/cc_20080814_automaticrefactor/src/main/java/com/totsp/mavenplugin/gwt/util/ArtifactNameUtil.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/874/tags/maven-googlewebtoolkit-support-1.6.1/maven-googlewebtoolkit-support/src/main/resources/com/totsp/mavenplugin/gwt/support
+END
+baseWeb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/874/tags/maven-googlewebtoolkit-support-1.6.1/maven-googlewebtoolkit-support/src/main/resources/com/totsp/mavenplugin/gwt/support/baseWeb.xml
+END
+emptyWeb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/874/tags/maven-googlewebtoolkit-support-1.6.1/maven-googlewebtoolkit-support/src/main/resources/com/totsp/mavenplugin/gwt/support/emptyWeb.xml
+END

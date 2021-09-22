@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/953/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support
+END
+GwtWebInfProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/938/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/GwtWebInfProcessor.java
+END
+ServletDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/940/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/ServletDescriptor.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/940/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/Main.java
+END
+MakeCatalinaBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/940/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/MakeCatalinaBase.java
+END
+GwtShellWebProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/940/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/GwtShellWebProcessor.java
+END
+ExitException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/937/branches/mr_2008_12_31_spring_plus/maven-googlewebtoolkit-support/src/main/java/com/totsp/mavenplugin/gwt/support/ExitException.java
+END

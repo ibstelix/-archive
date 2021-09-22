@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/981/trunk/maven-googlewebtoolkit2-plugin/simplesample/src/main/resources/com/totsp/sample/client
+END
+AppConstants.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/981/trunk/maven-googlewebtoolkit2-plugin/simplesample/src/main/resources/com/totsp/sample/client/AppConstants.properties
+END
+AppMessages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/981/trunk/maven-googlewebtoolkit2-plugin/simplesample/src/main/resources/com/totsp/sample/client/AppMessages_fr.properties
+END
+AppConstants_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/981/trunk/maven-googlewebtoolkit2-plugin/simplesample/src/main/resources/com/totsp/sample/client/AppConstants_fr.properties
+END
+AppMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/981/trunk/maven-googlewebtoolkit2-plugin/simplesample/src/main/resources/com/totsp/sample/client/AppMessages.properties
+END

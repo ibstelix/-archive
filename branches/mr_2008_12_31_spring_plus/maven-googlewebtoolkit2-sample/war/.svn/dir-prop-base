@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 37
+target
+
+.gwt-cache
+
+tomcat
+
+.gwt-tmp
+
+END
