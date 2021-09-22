@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa23c87a-13b8-4780-8b0f-6c27e293f16b" name="Default Changelist" comment="" />
+    <list default="true" id="fa23c87a-13b8-4780-8b0f-6c27e293f16b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +17,7 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/trunk/mavenrepo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -20,14 +26,22 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>$USER_HOME$/.subversion</configuration>
     <supportedVersion>125</supportedVersion>
@@ -39,30 +53,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632303517885</updated>
+      <workItem from="1632318125616" duration="806000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/trunk/mavenrepo" />
     </ignored-roots>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="764" y="297" width="447" height="520" key="FileChooserDialogImpl" timestamp="1632315015313">
-      <screen x="66" y="27" width="1854" height="1053" />
-    </state>
-    <state x="764" y="297" width="447" height="520" key="FileChooserDialogImpl/66.27.1854.1053@66.27.1854.1053" timestamp="1632315015313" />
-    <state x="482" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1632311876549">
-      <screen x="66" y="27" width="1854" height="1053" />
-    </state>
-    <state x="482" y="188" width="1022" height="737" key="SettingsEditor/66.27.1854.1053@66.27.1854.1053" timestamp="1632311876549" />
-    <state x="166" y="127" width="1654" height="853" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1632315066483">
-      <screen x="66" y="27" width="1854" height="1053" />
-    </state>
-    <state x="166" y="127" width="1654" height="853" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/66.27.1854.1053@66.27.1854.1053" timestamp="1632315066483" />
-    <state x="649" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1632316941015">
-      <screen x="66" y="27" width="1854" height="1053" />
-    </state>
-    <state x="649" y="381" key="com.intellij.ide.util.TipDialog/66.27.1854.1053@66.27.1854.1053" timestamp="1632316941015" />
   </component>
 </project>
